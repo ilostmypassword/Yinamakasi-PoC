@@ -15,6 +15,8 @@ The Yinama microscope is a portable and wireless digital microscope made in Chin
 
 This script exploits a Stored XSS vulnerability that I discovered in the manufacturer's configuration panel. For more information, please refer to the article I wrote about it: https://medium.com/@h3iko
 
+DISCLAIMER : This exploit works on Yinama microscopes, but as it is a white label product, it will probably works with other models that looks like this one.
+
 ## Context
 
 The configuration panel of the Yinama microscope is vulnerable to a Stored XSS attack, which can lead to the injection of malicious files into the configuration panel. These malicious files could then be downloaded by a victim. The affected parameter is the SSID parameter.
