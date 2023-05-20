@@ -13,7 +13,7 @@ Twitter: @undefined_npc
 
 The Yinama microscope is a portable and wireless digital microscope made in China, equipped with a 2 MP camera and 8 adjustable LED lights. It is compatible with Android and iOS devices, as well as Windows and MacOS computers. It can operate using Wi-Fi or a cable, and to use it, you need to download an application (but we don't need it for this exploit).
 
-This script exploits a Stored XSS vulnerability that I discovered in the manufacturer's configuration panel. For more information, please refer to the article I wrote about it: https://medium.com/@h3iko
+This script exploits a Stored XSS vulnerability that I discovered in the manufacturer's configuration panel. For more information, please refer to the article I wrote about it: https://medium.com/@h3iko/beyond-visible-limits-exploiting-a-microscopic-0-day-to-deliver-malware-fbba793edc43
 
 DISCLAIMER : This exploit works on Yinama microscopes, but as it is a white label product, it will probably works with other models that looks like this one.
 
