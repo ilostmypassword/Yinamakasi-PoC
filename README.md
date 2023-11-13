@@ -2,7 +2,6 @@
 
 <p align="center">
 Created by h3iko https://medium.com/@h3iko <br>
-Twitter: @undefined_npc
 </p>
 
 <p align="center">
