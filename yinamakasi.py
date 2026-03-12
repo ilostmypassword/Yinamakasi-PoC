@@ -8,7 +8,7 @@ ascii_art= ''' ▄· ▄▌▪   ▐ ▄  ▄▄▄· • ▌ ▄ ·.  ▄▄▄
  ▐█▀·.▐█▌██▐█▌▐█▪ ▐▌██ ██▌▐█▌▐█▪ ▐▌▐█.█▌▐█▪ ▐▌▐█▄▪▐█▐█▌
   ▀ • ▀▀▀▀▀ █▪ ▀  ▀ ▀▀  █▪▀▀▀ ▀  ▀ ·▀  ▀ ▀  ▀  ▀▀▀▀ ▀▀▀'''
                 
-creator = "Created by h3iko (https://medium.com/@h3iko)"
+creator = "Created by h3iko"
 
 print(ascii_art)
 print(creator)
