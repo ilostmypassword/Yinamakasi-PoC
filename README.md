@@ -1,7 +1,7 @@
 <h1 align="center">Yinamakasi Exploit (Stored XSS)</h1>
 
 <p align="center">
-Created by h3iko https://medium.com/@h3iko <br>
+Created by h3iko <br>
 </p>
 
 <p align="center">
@@ -33,7 +33,3 @@ The configuration panel of the Yinama microscope is vulnerable to a Stored XSS a
 - If you use this page, make sure to add your malicious files (MaxSee.* according to the platform).
 - Connect to the Wi-Fi access point of the microscope.
 - `python3 yinamakasi.py`
-
-## Video PoC
-
-[![Yinamakasi Exploit PoC](https://vimeo.com/828583512)](https://vimeo.com/828583512)
